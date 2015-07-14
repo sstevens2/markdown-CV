@@ -83,7 +83,7 @@ University of Illinois Urbana - Champaign, Whitaker Lab
 Bioinformatics Basics: Microbial Ecology and Evolution - Illinois Mathematics and Science Academy Intersession
 : *Instructor* - __Jan. 2015__
 
-Microbiology 304: Biology of Microorganisms Laboratory
+Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin - Madison
 : *Teaching Assistant/Instructor* - __Fall 2013__
 
 ------
