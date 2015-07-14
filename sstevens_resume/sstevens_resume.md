@@ -3,7 +3,7 @@
 # Sarah Stevens
 ## PhD Candidate, Microbiology Doctoral Training Program
 
-> [Download PDF](sstevens_resume.pdf)
+> [Download PDF](https://github.com/sstevens2/markdown-resume/raw/sstevens_resume/sstevens_resume/sstevens_resume_unsty.pdf)
 > sstevens2@wisc.edu
 > sarah.lr.stevens@gmail.com
 > [sarahlrstevens.info](sarahlrstevens.info)
