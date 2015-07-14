@@ -6,7 +6,7 @@
 > [Download PDF](sstevens_resume.pdf)
 > sstevens2@wisc.edu
 > sarah.lr.stevens@gmail.com
-> [Website](sarahlrstevens.info)
+> [sarahlrstevens.info](sarahlrstevens.info)
 
 ------
 
