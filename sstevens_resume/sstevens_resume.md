@@ -85,10 +85,3 @@ Bioinformatics Basics: Microbial Ecology and Evolution - Illinois Mathematics an
 
 Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin - Madison
 : *Teaching Assistant/Instructor* - __Fall 2013__
-
-------
-### Footer {#footer}
-
-Sarah Stevens -- sstevens2@wisc.edu
-
-------
