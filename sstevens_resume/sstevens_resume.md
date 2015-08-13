@@ -27,7 +27,7 @@ University of Illinois Urbana - Champaign
 
 University of Wisconsin - Madison, [McMahon Lab](https://mcmahonlab.wisc.edu/)
 : *Graduate Research Assistant* - __2012-Present__  
-  Classifying reference genomes (composite genomes from metagenomes and single-cell genomes) for unculturable but common freshwater bacteria and understand how the related populations change through time using our metagenomic time series.
+  Classifying reference genomes (composite genomes from metagenomes and single-cell genomes) for unculturable but common freshwater bacteria and understanding how the related populations change through time using our metagenomic time series.
 
 University of Illinois Urbana - Champaign, Metcalf Lab
 : *Visiting Researcher* - __2011-2012__  
@@ -48,6 +48,9 @@ University of Illinois Urbana - Champaign, Whitaker Lab
 
 [Software Carpentry](http://software-carpentry.org/)
 : *Instructor* - __2015-Present__  
+
+[Data Carpentry Genomics Hack-a-thon](https://github.com/datacarpentry/genomics-hackathon)
+: *Contributor* - __Mar. 23-25, 2015__
 
 [DOE Joint Genome Institute](http://jgi.doe.gov/)
 : *Intern/Affiliate* - __Jan. 2015-Mar. 2015__  
@@ -79,6 +82,9 @@ University of Illinois Urbana - Champaign, Whitaker Lab
 
 [McMahon Git Workshop](https://github.com/McMahonLab/git_wksp#mcmahon-lab-git-workshop)
 : *Instructor* - __July 2015__
+
+Software Carpentry Workshop - University of Wisconsin - Madison
+: *Helper* - [__Jan. 13-16 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md)
 
 Bioinformatics Basics: Microbial Ecology and Evolution - Illinois Mathematics and Science Academy Intersession
 : *Instructor* - __Jan. 2015__
