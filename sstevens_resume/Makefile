@@ -1,9 +1,3 @@
 sstevens_resume.pdf : sstevens_resume.md
-	../bin/md2resume pdf --template unstyled sstevens_resume.md .
-	mv sstevens_resume.pdf sstevens_resume.pdf
-	mv sstevens_resume.pdf sstevens_resume_unsty.pdf
-	../bin/md2resume pdf --template readable sstevens_resume.md .
-	mv sstevens_resume.pdf sstevens_resume.pdf
-	../bin/md2resume html --template unstyled sstevens_resume.md .
-	mv sstevens_resume.html sstevens_resume_unsty.html
-	../bin/md2resume html --template readable sstevens_resume.md .
+	pandoc -s -o sstevens_resume.html -V geometry:margin=.5in sstevens_resume.md
+	pandoc -o sstevens_resume.pdf -V geometry:margin=.5in sstevens_resume.md
