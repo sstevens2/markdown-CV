@@ -69,6 +69,10 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
 ## Presentations {#presentations}
 
+  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Mcmahon, K. D. Malmstrom, R. R. Tracking Microbial Populations Through Time Using Single-cell Genomes and Metagenomics. UW Center for Limnology. December 2015. Madison, WI.
+
+  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Mcmahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. JF Crow Institute for the Study of Evolution Seminar Series. October 2015. Madison, WI.
+
   **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Mcmahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. 14 Symposium Society for Aquatic Microbial Ecology. August 2015. Uppsala, Sweden [https://goo.gl/RcrxhJ](https://goo.gl/RcrxhJ)
 
   **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Mcmahon, K. D. Malmstrom, R. R. Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics (Oral Presentation). 15th International Symposium on Microbial Ecology. August 24, 2014. Seoul, South Korea.  [https://goo.gl/6iunz0](https://goo.gl/6iunz0)  
@@ -85,7 +89,7 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
 ## Publications {#publications}
 
-  Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Malmstrom, R. R. (_in review at ISMEJ_). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. \*Equal contributors
+  Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Malmstrom, R. R. (_accepted at ISMEJ_). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. \*Equal contributors
 
 
 ------
