@@ -89,8 +89,6 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
   **Stevens, S. L. R.**, Bendall, M. L., … Mcmahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes (Poster Presentation). DOE Joint Genome Institute User Meeting 2014. Walnut Creek, CA. [https://goo.gl/6iunz0](https://goo.gl/1voTvB)
 
-  **Stevens, S. L. R.** and  K. D. Malmstrom. Complementing Metagenomes with Single Amplified Genomes (Poster Presentation). Raper Symposium 2013. University of Wisconsin - Madison.
-
 ------
 
 ## Publications {#publications}
