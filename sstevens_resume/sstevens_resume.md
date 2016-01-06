@@ -23,11 +23,11 @@ University of Wisconsin - Madison, [McMahon Lab](https://mcmahonlab.wisc.edu/)
  *Graduate Research Assistant* - __2012-Present__  
   Obtaining and classifying reference genomes (composite genomes from metagenomes and single-cell genomes) for unculturable but common freshwater bacteria and understanding how the related populations change through time using our metagenomic time series.
 
-University of Illinois Urbana - Champaign, Metcalf Lab  
+University of Illinois Urbana - Champaign, [Metcalf Lab](https://mcb.illinois.edu/faculty/profile/metcalf/)  
  *Visiting Researcher* - __2011-2012__  
   Assembled genomes from isolates belonging to the archaeal genus _Methanosarcina_ and analyzed shared genomic content of members of this genus.
 
-University of Illinois Urbana - Champaign, Whitaker Lab  
+University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.edu/faculty/profile/rwhitakr)  
  *Undergraduate Research Assistant* - __2010-2011__  
   Studied insertion sequences in _Sulfolobus_ islandicus in an independent project,
   Culturing archaea, organized sample/culture database, cleaned-up and prepped lab equipment.
