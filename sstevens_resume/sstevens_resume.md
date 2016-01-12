@@ -67,8 +67,8 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 [Software Carpentry](http://software-carpentry.org/) Workshop  - Northwestern University  
  *Instructor* - [__Nov. 10-11 2015__](http://xuf12.github.io/2015-11-10-northwesternu/)
 
-[McMahon Git Workshop](https://github.com/McMahonLab/git_wksp#mcmahon-lab-git-workshop)  
- *Instructor* - __July 2015__
+Git Workshop  
+ *Instructor* - [__July 2015__](https://github.com/McMahonLab/git_wksp/tree/2015-summer#mcmahon-lab-git-workshop), __Jan. 7 2015]  
 
 [Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
  *Helper* - [__Jan. 13-16 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md)
