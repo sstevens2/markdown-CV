@@ -72,9 +72,12 @@ Git Workshop
 
 [Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
  *Helper* - [__Jan. 13-16 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md)
+ 
+[Data Carpentry](http://www.datacarpentry.org/) Workshop - University of Wisconsin - Madison  
+ *Helper* - [__Jan. 11-12 2016__](http://uw-madison-aci.github.io/2016-01-11-uwmadison/)
 
 Bioinformatics Basics: Microbial Ecology and Evolution - Illinois Mathematics and Science Academy Intersession  
- *Instructor* - __Jan. 2015__
+ *Instructor/Course Designer* - __Jan. 2015__
 
 Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin - Madison  
  *Teaching Assistant/Instructor* - __Fall 2013__
