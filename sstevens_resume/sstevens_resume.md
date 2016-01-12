@@ -101,8 +101,7 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
 ## Publications {#publications}
 
-  Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Malmstrom, R. R. (_accepted at ISMEJ_). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. \*Equal contributors
-
+  Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Malmstrom, R. R. (__advance online__). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:10.1038/ismej.2015.241 \*Equal contributors 
 
 ------
 
