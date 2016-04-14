@@ -38,14 +38,14 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 
 ## Organizations {#organizations}
 
-[Molecular Microbial Ecology and Evolution (MoMiEE)](http://goo.gl/G62AaW) focus group  
+[Computational Biology, Ecology, and Evolution (ComBEE)](https://goo.gl/5WVR6P) group  
  *Co-Chair* - __2014-Present__  
-  [MoMiEE](http://goo.gl/G62AaW) provides an opportunity for researchers to discuss new computational tools and learn bioinformatics skills together.  
+  [ComBEE](https://goo.gl/5WVR6P) provides an opportunity for researchers to discuss new computational tools and learn bioinformatics skills together.  
 
-[MoMiEE Python Study Group](goo.gl/xizMoi)  
+[ComBEE Python Study Group](https://goo.gl/iIxi1j)  
 *Chair* - __2014-Present__  
 
-[MoMiEE R Study Group](goo.gl/yRZ8GR)  
+[ComBEE R Study Group](https://goo.gl/IUmrjy)  
 *Chair* - __2015-Present__  
 
 [Software Carpentry](http://software-carpentry.org/)  
