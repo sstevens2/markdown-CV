@@ -61,8 +61,11 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 
 ## Teaching  {#teaching}
 
+[Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Milwaukee  
+ *Instructor* - [__Apr. 25-26, 2016__](http://sstevens2.github.io/2016-04-25-UW-mke/)
+
 [Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
- *Instructor* - [__Jan. 14-15, 2015__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/)
+ *Instructor* - [__Jan. 14-15, 2016__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/)
 
 [Software Carpentry](http://software-carpentry.org/) Workshop  - Northwestern University  
  *Instructor* - [__Nov. 10-11 2015__](http://xuf12.github.io/2015-11-10-northwesternu/)
