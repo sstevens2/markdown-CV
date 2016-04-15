@@ -75,7 +75,7 @@ Git Workshop
 
 [Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
  *Helper* - [__Jan. 13-16 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md)
- 
+
 [Data Carpentry](http://www.datacarpentry.org/) Workshop - University of Wisconsin - Madison  
  *Helper* - [__Jan. 11-12 2016__](http://uw-madison-aci.github.io/2016-01-11-uwmadison/)
 
@@ -111,7 +111,7 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
 ## Publications {#publications}
 
-  Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Malmstrom, R. R. (2016). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:10.1038/ismej.2015.241 \*Equal contributors 
+  Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., Schackwitz, W., Martin, J., Pati, A., Bushnell, B., Froula, J., Kang, D., Tringe, S. G., Bertilsson, S., Moran, M. A., Shade, A., Newton, R. J., McMahon, K. D., Malmstrom, R. R. (2016). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:10.1038/ismej.2015.241 \*Equal contributors
 
 ------
 
