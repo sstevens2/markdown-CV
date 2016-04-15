@@ -87,7 +87,7 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
 ------
 
-## Presentations {#presentations}
+## Oral Presentations {#oral_pres}
 
   **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Mcmahon, K. D. Malmstrom, R. R. Tracking Microbial Populations Through Time Using Single-cell Genomes and Metagenomics. UW Center for Limnology Seminar. December 2015. Madison, WI.
 
@@ -96,6 +96,10 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
   **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Mcmahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. 14 Symposium Society for Aquatic Microbial Ecology. August 2015. Uppsala, Sweden [https://goo.gl/RcrxhJ](https://goo.gl/RcrxhJ)
 
   **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … Mcmahon, K. D. Malmstrom, R. R. Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics. 15th International Symposium on Microbial Ecology. August 2014. Seoul, South Korea.  [https://goo.gl/6iunz0](https://goo.gl/6iunz0)  
+
+------
+
+## Poster Presentations {#poster_pres}
 
   **Stevens, S. L. R.**, Bendall, M. L., … Mcmahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes (Poster Presentation). 15th International Symposium on Microbial Ecology. August 2014. Seoul, South Korea. [https://goo.gl/qsYL32](https://goo.gl/qsYL32)  
 
