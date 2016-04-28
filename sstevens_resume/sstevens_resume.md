@@ -114,6 +114,8 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 ## Publications {#publications}
 
   Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., Schackwitz, W., Martin, J., Pati, A., Bushnell, B., Froula, J., Kang, D., Tringe, S. G., Bertilsson, S., Moran, M. A., Shade, A., Newton, R. J., McMahon, K. D., Malmstrom, R. R. (2016). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:10.1038/ismej.2015.241 \*Equal contributors
+  
+  Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, Malmstrom, R. R., McMahon, K. D. (_prepared for submission_). Genome level exploration of abundant and uncultivated freshwater bacteria reveals distinct and dynamic populations. \*Equal contributors
 
 ------
 
