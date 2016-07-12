@@ -61,23 +61,18 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 
 ## Teaching  {#teaching}
 
+[Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
+ *Instructor* - [__Jan. 14-15, 2016__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/), [__Jun. 08-09, 2016__](http://uw-madison-aci.github.io/2016-06-08-uwmadison/)  
+ *Helper* - [__Jan. 13-16 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md)
+
+ [Data Carpentry](http://www.datacarpentry.org/) Workshop - University of Wisconsin - Madison  
+  *Helper* - [__Jan. 11-12 2016__](http://uw-madison-aci.github.io/2016-01-11-uwmadison/), [__Jun. 01-02 2016__](http://uw-madison-aci.github.io/2016-06-01-uwmadison/)
+
 [Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Milwaukee  
  *Instructor* - [__Apr. 25-26, 2016__](http://sstevens2.github.io/2016-04-25-UW-mke/)
 
-[Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
- *Instructor* - [__Jan. 14-15, 2016__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/)
-
 [Software Carpentry](http://software-carpentry.org/) Workshop  - Northwestern University  
  *Instructor* - [__Nov. 10-11 2015__](http://xuf12.github.io/2015-11-10-northwesternu/)
-
-Git Workshop  
- *Instructor* - [__July 2015__](https://github.com/McMahonLab/git_wksp/tree/2015-summer#mcmahon-lab-git-workshop), __Jan. 7 2015__  
-
-[Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
- *Helper* - [__Jan. 13-16 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md)
-
-[Data Carpentry](http://www.datacarpentry.org/) Workshop - University of Wisconsin - Madison  
- *Helper* - [__Jan. 11-12 2016__](http://uw-madison-aci.github.io/2016-01-11-uwmadison/)
 
 Bioinformatics Basics: Microbial Ecology and Evolution - Illinois Mathematics and Science Academy Intersession  
  *Instructor/Course Designer* - __Jan. 2015__
