@@ -39,14 +39,10 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 ## Organizations {#organizations}
 
 [Computational Biology, Ecology, and Evolution (ComBEE)](https://goo.gl/5WVR6P) group  
- *Co-Chair* - __2014-Present__  
-  [ComBEE](https://goo.gl/5WVR6P) provides an opportunity for researchers to discuss new computational tools and learn bioinformatics skills together.  
-
-[ComBEE Python Study Group](https://goo.gl/iIxi1j)  
-*Chair* - __2014-Present__  
-
-[ComBEE R Study Group](https://goo.gl/IUmrjy)  
-*Chair* - __2015-Present__  
+ *Co-Chair/Founder* - __2014-Present__  
+    - [ComBEE](https://goo.gl/5WVR6P) provides an opportunity for researchers to discuss new computational tools and learn bioinformatics skills together.  
+    - [ComBEE Python Study Group](https://goo.gl/iIxi1j)  - __2014-Present__  
+    - [ComBEE R Study Group](https://goo.gl/IUmrjy)  - __2015-Present__  
 
 [Software Carpentry](http://software-carpentry.org/)  
  *Instructor* - __2015-Present__  
