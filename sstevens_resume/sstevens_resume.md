@@ -84,9 +84,9 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
 ## Oral Presentations {#oral_pres}
 
-  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Tracking Microbial Populations Through Time Using Single-cell Genomes and Metagenomics. UW Center for Limnology Seminar. December 2015. Madison, WI.
+  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Tracking Microbial Populations Through Time Using Single-cell Genomes and Metagenomics. UW Center for Limnology Seminar. December 2015. Madison, WI. [https://goo.gl/0ge2LZ](https://goo.gl/0ge2LZ)
 
-  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. JF Crow Institute for the Study of Evolution Seminar Series. October 2015. Madison, WI.
+  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. JF Crow Institute for the Study of Evolution Seminar Series. October 2015. Madison, WI. [https://goo.gl/oSnDYG](https://goo.gl/oSnDYG)
 
   **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. 14 Symposium Society for Aquatic Microbial Ecology. August 2015. Uppsala, Sweden [https://goo.gl/RcrxhJ](https://goo.gl/RcrxhJ)
 
