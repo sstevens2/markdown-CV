@@ -23,7 +23,7 @@ University of Illinois Urbana - Champaign
 ## Research {#research}
 University of Wisconsin - Madison, [McMahon Lab](https://mcmahonlab.wisc.edu/)  
  *Graduate Research Assistant* - __2012-Present__  
-  Determining the forces that shape population structure and how wild bacterial populations change through time in lakes as a model system using reference genomes (composite genomes from metagenomes and single-cell genomes) for uncultivated but common freshwater bacteria and metagenomic time series. 
+  Determining the forces that shape population structure and how wild bacterial populations change through time in lakes as a model system using reference genomes (composite genomes from metagenomes and single-cell genomes) for uncultivated but common freshwater bacteria and metagenomic time series from several lakes.
 
 University of Illinois Urbana - Champaign, [Metcalf Lab](https://mcb.illinois.edu/faculty/profile/metcalf/)  
  *Visiting Researcher* - __2011-2012__  
@@ -59,7 +59,10 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 
 [Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
  *Instructor* - [__Jan. 14-15, 2016__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/), [__Jun. 08-09, 2016__](http://uw-madison-aci.github.io/2016-06-08-uwmadison/)  
- *Helper* - [__Jan. 13-16 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md)
+ *Helper* - [__Jan. 13-16, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md), [__Aug. 29-30, 2016__](https://uw-madison-aci.github.io/2016-08-29-uwmadison/)
+
+[Software Carpentry](http://software-carpentry.org/) Instructor Training - University of Wisconsin - Madison  
+ *Helper* - [__Oct. 24-25, 2016__](https://github.com/UW-Madison-ACI/2016-10-24-ttt-uwmadison)
 
  [Data Carpentry](http://www.datacarpentry.org/) Workshop - University of Wisconsin - Madison  
   *Helper* - [__Jan. 11-12 2016__](http://uw-madison-aci.github.io/2016-01-11-uwmadison/), [__Jun. 01-02 2016__](http://uw-madison-aci.github.io/2016-06-01-uwmadison/)
