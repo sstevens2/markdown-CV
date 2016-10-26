@@ -36,6 +36,14 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 
 ------
 
+## Publications {#publications}
+
+  Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., Schackwitz, W., Martin, J., Pati, A., Bushnell, B., Froula, J., Kang, D., Tringe, S. G., Bertilsson, S., Moran, M. A., Shade, A., Newton, R. J., McMahon, K. D., Malmstrom, R. R. (2016). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:10.1038/ismej.2015.241 **featured article** \*Equal contributors
+
+  Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, Malmstrom, R. R., McMahon, K. D. (_prepared for submission_). Contrasting patterns of genome-level diversity across distinct co-occurring freshwater bacterial populations. \*Equal contributors
+
+------
+
 ## Organizations {#organizations}
 
 [Computational Biology, Ecology, and Evolution (ComBEE)](https://goo.gl/5WVR6P) group  
@@ -106,14 +114,6 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
   **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. SciMed GRS Poster Session 2014. September 2014. Madison, WI.
 
   **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. DOE Joint Genome Institute User Meeting 2014. Walnut Creek, CA. [https://goo.gl/6iunz0](https://goo.gl/1voTvB)
-
-------
-
-## Publications {#publications}
-
-  Bendall, M. L.\*, **Stevens, S. L. R.**\*, Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., Schackwitz, W., Martin, J., Pati, A., Bushnell, B., Froula, J., Kang, D., Tringe, S. G., Bertilsson, S., Moran, M. A., Shade, A., Newton, R. J., McMahon, K. D., Malmstrom, R. R. (2016). Genome-wide selective sweeps and gene-specific sweeps in natural bacterial populations. ISMEJ. doi:10.1038/ismej.2015.241 **featured article** \*Equal contributors
-
-  Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, Malmstrom, R. R., McMahon, K. D. (_prepared for submission_). Contrasting patterns of genome-level diversity across distinct co-occurring freshwater bacterial populations. \*Equal contributors
 
 ------
 
