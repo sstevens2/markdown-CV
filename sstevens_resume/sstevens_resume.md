@@ -93,15 +93,19 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
 ------
 
+\newpage
+
 ## Poster Presentations {#poster_pres}
 
-  **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Tracking Distinct Freshwater Populations Through Time by Mapping Metagenomes to Single-cell Genomes (Poster Presentation). DOE Joint Genome Institute User Meeting 2016. Walnut Creek, CA. [https://goo.gl/ShUQVn](https://goo.gl/ShUQVn)
+  **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Contrasting Patterns fo Genome-level Diversity across Distinct Co-occurring Populations. 16th International Symposium on Microbial Ecology. August 2016. Montreal, Canada. [https://goo.gl/8JGS52](https://goo.gl/8JGS52)
 
-  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes (Poster Presentation). 15th International Symposium on Microbial Ecology. August 2014. Seoul, South Korea. [https://goo.gl/qsYL32](https://goo.gl/qsYL32)  
+  **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Tracking Distinct Freshwater Populations Through Time by Mapping Metagenomes to Single-cell Genomes. DOE Joint Genome Institute User Meeting 2016. Walnut Creek, CA. [https://goo.gl/ShUQVn](https://goo.gl/ShUQVn)
 
-  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes (Poster Presentation). SciMed GRS Poster Session 2014. September 2014. Madison, WI.
+  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. 15th International Symposium on Microbial Ecology. August 2014. Seoul, South Korea. [https://goo.gl/qsYL32](https://goo.gl/qsYL32)  
 
-  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes (Poster Presentation). DOE Joint Genome Institute User Meeting 2014. Walnut Creek, CA. [https://goo.gl/6iunz0](https://goo.gl/1voTvB)
+  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. SciMed GRS Poster Session 2014. September 2014. Madison, WI.
+
+  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. DOE Joint Genome Institute User Meeting 2014. Walnut Creek, CA. [https://goo.gl/6iunz0](https://goo.gl/1voTvB)
 
 ------
 
