@@ -23,7 +23,7 @@ University of Illinois Urbana - Champaign
 ## Research {#research}
 University of Wisconsin - Madison, [McMahon Lab](https://mcmahonlab.wisc.edu/)  
  *Graduate Research Assistant* - __2012-Present__  
-  Determining the forces that shape populaiton structure and how wild bacterial populations change through time in lakes as a model system using reference genomes (composite genomes from metagenomes and single-cell genomes) for unculturable but common freshwater bacteria and metagenomic timeseries. 
+  Determining the forces that shape population structure and how wild bacterial populations change through time in lakes as a model system using reference genomes (composite genomes from metagenomes and single-cell genomes) for uncultivated but common freshwater bacteria and metagenomic time series. 
 
 University of Illinois Urbana - Champaign, [Metcalf Lab](https://mcb.illinois.edu/faculty/profile/metcalf/)  
  *Visiting Researcher* - __2011-2012__  
