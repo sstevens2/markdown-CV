@@ -32,7 +32,7 @@ University of Illinois Urbana - Champaign, [Metcalf Lab](https://mcb.illinois.ed
 University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.edu/faculty/profile/rwhitakr)  
  *Undergraduate Research Assistant* - __2010-2011__  
   Studied insertion sequences in _Sulfolobus_ islandicus in an independent project,
-  Cultured archaea, organized sample/culture database, cleaned-up and prepped lab equipment.
+  cultured archaea, organized sample/culture database, cleaned-up and prepped lab equipment.
 
 ------
 
