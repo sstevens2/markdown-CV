@@ -84,6 +84,9 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 [Software Carpentry](http://software-carpentry.org/) Workshop  - Northwestern University  
  *Instructor* - [__Nov. 10-11 2015__](http://xuf12.github.io/2015-11-10-northwesternu/)
 
+McMahon Lab Git Workshop  
+ *Instructor* - [__July 2015__](https://github.com/McMahonLab/git_wksp/tree/2015-summer#mcmahon-lab-git-workshop)
+
 Bioinformatics Basics: Microbial Ecology and Evolution - Illinois Mathematics and Science Academy Intersession  
  *Instructor/Course Designer* - __Jan. 2015__
 
