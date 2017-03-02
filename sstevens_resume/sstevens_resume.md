@@ -52,7 +52,7 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
     - [ComBEE Python Study Group](https://goo.gl/iIxi1j)  - __2014-Present__  
     - [ComBEE R Study Group](https://goo.gl/IUmrjy)  - __2015-Present__  
 
-[Software Carpentry](http://software-carpentry.org/)  
+[Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/)  
  *Instructor* - __2015-Present__  
 
 [Data Carpentry Genomics Hack-a-thon](https://github.com/datacarpentry/genomics-hackathon)  
@@ -66,13 +66,16 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 ## Teaching  {#teaching}
 
 [Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
- *Instructor* - [__Jan. 14-15, 2016__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/), [__Jun. 08-09, 2016__](http://uw-madison-aci.github.io/2016-06-08-uwmadison/)  
+ *Instructor* - [__Jan. 14-15, 2016__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/), [__Jun. 08-09, 2016__](http://uw-madison-aci.github.io/2016-06-08-uwmadison/), [__Jan. 12-13, 2017__](https://uw-madison-aci.github.io/2017-01-12-uwmadison/)  
  *Helper* - [__Jan. 13-16, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md), [__Aug. 29-30, 2016__](https://uw-madison-aci.github.io/2016-08-29-uwmadison/)
 
-[Software Carpentry](http://software-carpentry.org/) Instructor Training - University of Wisconsin - Madison  
- *Helper* - [__Oct. 24-25, 2016__](https://github.com/UW-Madison-ACI/2016-10-24-ttt-uwmadison)
+[Data Carpentry](http://www.datacarpentry.org/) Workshop - University of Wisconsin - Madison  
+  *Instructor* - [__Jan. 10-11, 2017__](https://uw-madison-aci.github.io/2017-01-10-uwmadison/)
 
- [Data Carpentry](http://www.datacarpentry.org/) Workshop - University of Wisconsin - Madison  
+[Software Carpentry](http://software-carpentry.org/) Instructor Training - University of Wisconsin - Madison  
+ *Helper* - [__Oct. 24-25, 2016__](https://uw-madison-aci.github.io/2016-10-24-ttt-uwmadison/)
+
+[Data Carpentry](http://www.datacarpentry.org/) Workshop - University of Wisconsin - Madison  
   *Helper* - [__Jan. 11-12 2016__](http://uw-madison-aci.github.io/2016-01-11-uwmadison/), [__Jun. 01-02 2016__](http://uw-madison-aci.github.io/2016-06-01-uwmadison/)
 
 [Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Milwaukee  
@@ -100,8 +103,6 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
   **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics. 15th International Symposium on Microbial Ecology. August 2014. Seoul, South Korea.  [https://goo.gl/6iunz0](https://goo.gl/6iunz0)  
 
 ------
-
-\newpage
 
 ## Poster Presentations {#poster_pres}
 
