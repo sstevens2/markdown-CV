@@ -65,6 +65,9 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 
 ## Teaching  {#teaching}
 
+[ComBEE](https://sites.google.com/a/wisc.edu/combee) Git/Github Workshop - University of Wisconsin - Madison  
+  *Instructor* - [__Mar. 2-3, 2017__](https://sstevens2.github.io/git-novice-mod/)
+
 [Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
  *Instructor* - [__Jan. 14-15, 2016__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/), [__Jun. 08-09, 2016__](http://uw-madison-aci.github.io/2016-06-08-uwmadison/), [__Jan. 12-13, 2017__](https://uw-madison-aci.github.io/2017-01-12-uwmadison/)  
  *Helper* - [__Jan. 13-16, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md), [__Aug. 29-30, 2016__](https://uw-madison-aci.github.io/2016-08-29-uwmadison/)
@@ -94,6 +97,8 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
  *Teaching Assistant/Instructor* - __Fall 2013__
 
 ------
+
+\pagebreak
 
 ## Oral Presentations {#oral_pres}
 
