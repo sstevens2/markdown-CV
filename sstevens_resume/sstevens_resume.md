@@ -102,29 +102,29 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
 ## Oral Presentations {#oral_pres}
 
-  **Stevens, S. L. R.** Starting Your Own Study Group. Rebecca J. Holz series in Research Data Management. October 2016. Madison, WI. [Webpage/Slides](http://researchdata.wisc.edu/news/october-2016-brown-bag-sarah-stevens/)
+  **Stevens, S. L. R.** Starting Your Own Study Group. Rebecca J. Holz series in Research Data Management. October 2016. Madison, WI. [Link to Webpage/Slides](http://researchdata.wisc.edu/news/october-2016-brown-bag-sarah-stevens/)
 
-  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Tracking Microbial Populations Through Time Using Single-cell Genomes and Metagenomics. UW Center for Limnology Seminar. December 2015. Madison, WI. [Slides](https://goo.gl/0ge2LZ)
+  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Tracking Microbial Populations Through Time Using Single-cell Genomes and Metagenomics. UW Center for Limnology Seminar. December 2015. Madison, WI. [Link to Slides](https://goo.gl/0ge2LZ)
 
-  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. JF Crow Institute for the Study of Evolution Seminar Series. October 2015. Madison, WI. [Slides](https://goo.gl/oSnDYG)
+  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. JF Crow Institute for the Study of Evolution Seminar Series. October 2015. Madison, WI. [Link to Slides](https://goo.gl/oSnDYG)
 
-  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. 14 Symposium Society for Aquatic Microbial Ecology. August 2015. Uppsala, Sweden [Slides](https://goo.gl/RcrxhJ)
+  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. 14 Symposium Society for Aquatic Microbial Ecology. August 2015. Uppsala, Sweden [Link to Slides](https://goo.gl/RcrxhJ)
 
-  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics. 15th International Symposium on Microbial Ecology. August 2014. Seoul, South Korea.  [Slides](https://goo.gl/6iunz0)  
+  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed by Time-series Metagenomics. 15th International Symposium on Microbial Ecology. August 2014. Seoul, South Korea.  [Link to Slides](https://goo.gl/6iunz0)  
 
 ------
 
 ## Poster Presentations {#poster_pres}
 
-  **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Contrasting Patterns fo Genome-level Diversity across Distinct Co-occurring Populations. 16th International Symposium on Microbial Ecology. August 2016. Montreal, Canada. [https://goo.gl/8JGS52](https://goo.gl/8JGS52)
+  **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Contrasting Patterns fo Genome-level Diversity across Distinct Co-occurring Populations. 16th International Symposium on Microbial Ecology. August 2016. Montreal, Canada. [Link to Poster](https://goo.gl/8JGS52)
 
-  **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Tracking Distinct Freshwater Populations Through Time by Mapping Metagenomes to Single-cell Genomes. DOE Joint Genome Institute User Meeting 2016. Walnut Creek, CA. [https://goo.gl/ShUQVn](https://goo.gl/ShUQVn)
+  **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Tracking Distinct Freshwater Populations Through Time by Mapping Metagenomes to Single-cell Genomes. DOE Joint Genome Institute User Meeting 2016. Walnut Creek, CA. [Link to Poster](https://goo.gl/ShUQVn)
 
-  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. 15th International Symposium on Microbial Ecology. August 2014. Seoul, South Korea. [https://goo.gl/qsYL32](https://goo.gl/qsYL32)  
+  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. 15th International Symposium on Microbial Ecology. August 2014. Seoul, South Korea. [Link to Poster](https://goo.gl/qsYL32)  
 
   **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. SciMed GRS Poster Session 2014. September 2014. Madison, WI.
 
-  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. DOE Joint Genome Institute User Meeting 2014. Walnut Creek, CA. [https://goo.gl/6iunz0](https://goo.gl/1voTvB)
+  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. DOE Joint Genome Institute User Meeting 2014. Walnut Creek, CA. [Link to Poster](https://goo.gl/1voTvB)
 
 ------
 
