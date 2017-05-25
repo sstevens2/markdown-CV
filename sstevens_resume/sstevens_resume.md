@@ -65,6 +65,9 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 
 ## Teaching  {#teaching}
 
+[ComBEE](https://sites.google.com/a/wisc.edu/combee) Anvio Workshop 2017 - University of Wisconsin - Madison  
+  *Instructor* - [__May. 24, 2017__](https://public.etherpad-mozilla.org/p/2017-05-24-combee-anvio)
+
 [ComBEE](https://sites.google.com/a/wisc.edu/combee) Git/Github Workshop - University of Wisconsin - Madison  
   *Instructor* - [__Mar. 2-3, 2017__](https://sstevens2.github.io/git-novice-mod/)
 
