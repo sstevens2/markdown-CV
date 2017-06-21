@@ -1,5 +1,5 @@
 % Sarah Stevens
-%[Download PDF](https://github.com/sstevens2/markdown-resume/raw/sstevens_resume/sstevens_resume/sstevens_resume.pdf) -- sstevens2@wisc.edu -- sarah.lr.stevens@gmail.com -- [sarahlrstevens.info](sarahlrstevens.info)
+% [sarahlrstevens.info](sarahlrstevens.info) -- sstevens2@wisc.edu -- sarah.lr.stevens@gmail.com -- [CV weblink](https://github.com/sstevens2/CV/blob/master/sstevens_CV.pdf)
 
 \pagenumbering{gobble}
 
