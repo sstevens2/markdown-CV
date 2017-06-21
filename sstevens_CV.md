@@ -134,6 +134,7 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
 ## Awards {#awards}
 
+  UW-Madison Dept. of Bacteriology Travel Award - __Spring 2017__  
   UW-Madison Dept. of Bacteriology Betley-Allen Fellowship - __2016-2017__  
   UW-Madison Graduate School Travel Award - __Fall 2015__  
   UW-Madison Dept. of Bacteriology Travel Award - __Spring 2014__  
