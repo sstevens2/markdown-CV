@@ -121,9 +121,15 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
 
 ## Poster Presentations {#poster_pres}
 
+  **Stevens, S. L. R.**, Egan, R., Malmstrom, R.R., McMahon, K. D. Comparative Genomics of Selected Bacterial Populations from Several Freshwater Bog Lakes. 2017 Microbial Population Biology Gordon Research Conference. July 2017. Andover, NH. [Link to Poster](https://goo.gl/ZRSh9W)
+
+  **Stevens, S. L. R.**, Egan, R., Malmstrom, R.R., McMahon, K. D. Comparative Genomics of Selected Bacterial Populations from Several Freshwater Bog Lakes. 2017 Microbial Population Biology Gordon Research Seminar. July 2017. Andover, NH. [Link to Poster](https://goo.gl/ZRSh9W)
+
   **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Contrasting Patterns fo Genome-level Diversity across Distinct Co-occurring Populations. 16th International Symposium on Microbial Ecology. August 2016. Montreal, Canada. [Link to Poster](https://goo.gl/8JGS52)
 
   **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Tracking Distinct Freshwater Populations Through Time by Mapping Metagenomes to Single-cell Genomes. DOE Joint Genome Institute User Meeting 2016. Walnut Creek, CA. [Link to Poster](https://goo.gl/ShUQVn)
+
+  **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. 2015 Microbial Population Biology Gordon Research Conference. July 2015. Andover, NH. [Link to Poster](https://goo.gl/rwaFKV)
 
   **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. 15th International Symposium on Microbial Ecology. August 2014. Seoul, South Korea. [Link to Poster](https://goo.gl/qsYL32)  
 
@@ -132,6 +138,8 @@ Microbiology 304: Biology of Microorganisms Laboratory - University of Wisconsin
   **Stevens, S. L. R.**, Bendall, M. L., … McMahon, K. D. Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations Inferred Using Metagenomes. DOE Joint Genome Institute User Meeting 2014. Walnut Creek, CA. [Link to Poster](https://goo.gl/1voTvB)
 
 ------
+
+\pagebreak
 
 ## Awards {#awards}
 
