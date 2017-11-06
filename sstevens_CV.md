@@ -77,7 +77,7 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
   *Helper* - [__Jan. 11-12 2016__](http://uw-madison-aci.github.io/2016-01-11-uwmadison/), [__Jun. 01-02 2016__](http://uw-madison-aci.github.io/2016-06-01-uwmadison/), [__Jun. 19-20, 2017__](https://uw-madison-aci.github.io/2017-06-19-uwmadison-dc/)
 
 [Software Carpentry](http://software-carpentry.org/) Workshop - Federal Reserve Bank, Chicago  
- *Instructor* - [__Aug. 2-3, 2017__](hhttp://sarahlrstevens.info/2017-08-02-chicago-frb/)
+ *Instructor* - [__Aug. 2-3, 2017__](http://sarahlrstevens.info/2017-08-02-chicago-frb/)
 
 [ComBEE](https://sites.google.com/a/wisc.edu/combee) Anvio Workshop 2017 - University of Wisconsin - Madison  
   *Instructor* - [__May. 24, 2017__](https://public.etherpad-mozilla.org/p/2017-05-24-combee-anvio)
