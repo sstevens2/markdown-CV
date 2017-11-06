@@ -70,11 +70,11 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
 
 [Software Carpentry](http://software-carpentry.org/) Workshop - University of Wisconsin - Madison  
  *Instructor* - [__Jan. 14-15, 2016__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/), [__Jun. 08-09, 2016__](http://uw-madison-aci.github.io/2016-06-08-uwmadison/), [__Jan. 12-13, 2017__](https://uw-madison-aci.github.io/2017-01-12-uwmadison/)  
- *Helper* - [__Jan. 13-16, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md) , [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md), [__Aug. 29-30, 2016__](https://uw-madison-aci.github.io/2016-08-29-uwmadison/), [__Jun. 28-29, 2017__](https://uw-madison-aci.github.io/2017-06-28-uwmadison-swc/), [__Aug. 30-31, 2017__](https://uw-madison-aci.github.io/2017-08-30-uwmadison-swc/)
+ *Helper* - [__Jan. 13-16, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md), [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md), [__Aug. 29-30, 2016__](https://uw-madison-aci.github.io/2016-08-29-uwmadison/), [__Jun. 28-29, 2017__](https://uw-madison-aci.github.io/2017-06-28-uwmadison-swc/), [__Aug. 30-31, 2017__](https://uw-madison-aci.github.io/2017-08-30-uwmadison-swc/)
 
 [Data Carpentry](http://www.datacarpentry.org/) Workshop - University of Wisconsin - Madison  
   *Instructor* - [__Jan. 10-11, 2017__](https://uw-madison-aci.github.io/2017-01-10-uwmadison/), [__Aug. 22-23, 2017__](https://uw-madison-aci.github.io/2017-08-22-uwmadison-dc/)  
-  *Helper* - [__Jan. 11-12 2016__](http://uw-madison-aci.github.io/2016-01-11-uwmadison/), [__Jun. 01-02 2016__](http://uw-madison-aci.github.io/2016-06-01-uwmadison/), [__Jun. 19-20, 2017__](https://uw-madison-aci.github.io/2017-06-19-uwmadison-dc/)
+  *Helper* - [__Jan. 11-12, 2016__](http://uw-madison-aci.github.io/2016-01-11-uwmadison/), [__Jun. 01-02, 2016__](http://uw-madison-aci.github.io/2016-06-01-uwmadison/), [__Jun. 19-20, 2017__](https://uw-madison-aci.github.io/2017-06-19-uwmadison-dc/)
 
 [Software Carpentry](http://software-carpentry.org/) Workshop - Federal Reserve Bank, Chicago  
  *Instructor* - [__Aug. 2-3, 2017__](http://sarahlrstevens.info/2017-08-02-chicago-frb/)
@@ -92,7 +92,7 @@ University of Illinois Urbana - Champaign, [Whitaker Lab](https://mcb.illinois.e
  *Instructor* - [__Apr. 25-26, 2016__](http://sstevens2.github.io/2016-04-25-UW-mke/)
 
 [Software Carpentry](http://software-carpentry.org/) Workshop  - Northwestern University  
- *Instructor* - [__Nov. 10-11 2015__](http://xuf12.github.io/2015-11-10-northwesternu/)
+ *Instructor* - [__Nov. 10-11, 2015__](http://xuf12.github.io/2015-11-10-northwesternu/)
 
 McMahon Lab Git Workshop  
  *Instructor* - [__July 2015__](https://github.com/McMahonLab/git_wksp/tree/2015-summer#mcmahon-lab-git-workshop)
