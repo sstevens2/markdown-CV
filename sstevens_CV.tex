@@ -1,0 +1,375 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[sarah-stevens]{Sarah Stevens}
+
+\startblockquote
+\useURL[url1][sarahlrstevens.info][][Webpage]\from[url1] --
+\useURL[url2][mailto:sarah.lr.stevens@gmail.com][][sarah.lr.stevens@gmail.com]\from[url2]
+--
+\useURL[url3][https://github.com/sstevens2/CV/blob/master/sstevens_CV.pdf][][CV
+weblink]\from[url3]
+\stopblockquote
+
+\thinrule
+
+\subsection[education]{Education}
+
+\startdescription{2012-2018 (expected)}
+  {\bf PhD, Microbiology Doctoral Training Program};\crlf
+  University of Wisconsin - Madison
+
+  SciMed GRS Fellow\crlf
+  MDTP Recruiting Commitee - {\bf 2014-2015}\crlf
+  MDTP Steering Committee - {\bf 2015-2016}
+\stopdescription
+
+\startdescription{2007-2011}
+  {\bf Bachelor of Science - Molecular and Cellular Biology};\crlf
+  University of Illinois Urbana - Champaign
+
+  {\em Minor in Informatics}\crlf
+  James Scholar Honors
+\stopdescription
+
+\subsection[research-experience]{Research Experience}
+
+{\bf University of Wisconsin - Madison,
+\useURL[url4][https://mcmahonlab.wisc.edu/][][McMahon Lab]\from[url4]}
+
+Graduate Research Assistant - {\bf 2012-Present}
+
+Determining the forces that shape population structure and how wild
+bacterial populations change through time in lakes as a model system
+using reference genomes (composite genomes from metagenomes and
+single-cell genomes) for uncultivated but common freshwater bacteria and
+metagenomic time series from several lakes.
+
+{\bf University of Illinois Urbana - Champaign,
+\useURL[url5][https://mcb.illinois.edu/faculty/profile/metcalf/][][Metcalf
+Lab]\from[url5]}
+
+Visiting Researcher - {\bf 2011-2012}
+
+Assembled genomes from isolates belonging to the archaeal genus
+{\em Methanosarcina} and analyzed shared genomic content of members of
+this genus.
+
+{\bf University of Illinois Urbana - Champaign,
+\useURL[url6][https://mcb.illinois.edu/faculty/profile/rwhitakr][][Whitaker
+Lab]\from[url6]}
+
+Undergraduate Research Assistant - {\bf 2010-2011}
+
+Studied insertion sequences in {\em Sulfolobus} islandicus in an
+independent project, cultured archaea, organized sample/culture
+database, cleaned-up and prepped lab equipment.
+
+\subsection[publications]{Publications}
+
+Garcia, S. L.*, {\bf Stevens, S. L. R.}*, Crary, B., Martinez-Garcia,
+M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S.,
+Bertilsson, Malmstrom, R. R., McMahon, K. D. ({\em accepted at ISME
+Journal}). Contrasting patterns of genome-level diversity across
+distinct co-occurring freshwater bacterial populations. *Equal
+contributors
+
+He, S., {\bf Stevens, S. L. R.}, Chan, L.-K., Bertilsson, S., Glavina
+del Rio, T., Tringe, S. G., Malmstrom, R. R., McMahon, K. D. (2017).
+Ecophysiology of Freshwater Verrucomicrobia Inferred from
+Metagenome-Assembled Genomes. mSphere.
+doi:\useURL[url7][https://doi.org/10.1128/mSphere.00277-17][][10.1128/mSphere.00277-17]\from[url7]
+
+Bendall, M. L.*, {\bf Stevens, S. L. R.}*, Chan, L.-K., Malfatti, S.,
+Schwientek, P., Tremblay, J., Schackwitz, W., Martin, J., Pati, A.,
+Bushnell, B., Froula, J., Kang, D., Tringe, S. G., Bertilsson, S.,
+Moran, M. A., Shade, A., Newton, R. J., McMahon, K. D., Malmstrom, R. R.
+(2016). Genome-wide selective sweeps and gene-specific sweeps in natural
+bacterial populations. ISMEJ.
+doi:\useURL[url8][https://doi.org/10.1038/ismej.2015.241][][10.1038/ismej.2015.241]\from[url8]
+{\bf featured article}
+
+*Equal contributors
+
+\subsection[organizations]{Organizations}
+
+\useURL[url9][http://software-carpentry.org/][][Software
+Carpentry]\from[url9] {\bf and}
+\useURL[url10][http://www.datacarpentry.org/][][Data
+Carpentry]\from[url10]\crlf
+{\em Instructor} - {\bf 2015-Present}
+
+\useURL[url11][https://goo.gl/Pf57mb][][Computational Biology, Ecology,
+and Evolution (ComBEE)]\from[url11] group\crlf
+{\em Founder/Co-Chair} - {\bf 2014-2017}\crlf
+- \useURL[url12][https://goo.gl/Pf57mb][][ComBEE]\from[url12] provides
+an opportunity for researchers to discuss new computational tools and
+learn bioinformatics skills together.\crlf
+- \useURL[url13][https://goo.gl/8fcWc3][][ComBEE Python Study
+Group]\from[url13] - {\bf 2014-2017}\crlf
+- \useURL[url14][https://goo.gl/xKfLHf][][ComBEE R Study
+Group]\from[url14] - {\bf 2015-2017}
+
+\useURL[url15][https://github.com/datacarpentry/genomics-hackathon][][Data
+Carpentry Genomics Hack-a-thon]\from[url15]\crlf
+{\em Contributor} - {\bf Mar. 23-25, 2015}
+
+\useURL[url16][http://jgi.doe.gov/][][DOE Joint Genome
+Institute]\from[url16]\crlf
+{\em Intern/Affiliate} - {\bf Jan. 2015-Mar. 2015}
+
+\subsection[teaching]{Teaching}
+
+\useURL[url17][http://software-carpentry.org/][][Software
+Carpentry]\from[url17] Workshop - University of Wisconsin - Madison\crlf
+{\em Instructor} -
+\useURL[url18][http://uw-madison-aci.github.io/2016-01-14-uwmadison/][][{\bf Jan.
+14-15, 2016}]\from[url18],
+\useURL[url19][http://uw-madison-aci.github.io/2016-06-08-uwmadison/][][{\bf Jun.
+08-09, 2016}]\from[url19],
+\useURL[url20][https://uw-madison-aci.github.io/2017-01-12-uwmadison/][][{\bf Jan.
+12-13, 2017}]\from[url20]\crlf
+{\em Helper} -
+\useURL[url21][https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md][][{\bf Jan.
+13-16, 2015}]\from[url21],
+\useURL[url22][https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md][][{\bf Jun.
+3-4, 2015}]\from[url22],
+\useURL[url23][https://uw-madison-aci.github.io/2016-08-29-uwmadison/][][{\bf Aug.
+29-30, 2016}]\from[url23],
+\useURL[url24][https://uw-madison-aci.github.io/2017-06-28-uwmadison-swc/][][{\bf Jun.
+28-29, 2017}]\from[url24],
+\useURL[url25][https://uw-madison-aci.github.io/2017-08-30-uwmadison-swc/][][{\bf Aug.
+30-31, 2017}]\from[url25]
+
+\useURL[url26][http://www.datacarpentry.org/][][Data
+Carpentry]\from[url26] Workshop - University of Wisconsin - Madison\crlf
+{\em Instructor} -
+\useURL[url27][https://uw-madison-aci.github.io/2017-01-10-uwmadison/][][{\bf Jan.
+10-11, 2017}]\from[url27],
+\useURL[url28][https://uw-madison-aci.github.io/2017-08-22-uwmadison-dc/][][{\bf Aug.
+22-23, 2017}]\from[url28]\crlf
+{\em Helper} -
+\useURL[url29][http://uw-madison-aci.github.io/2016-01-11-uwmadison/][][{\bf Jan.
+11-12, 2016}]\from[url29],
+\useURL[url30][http://uw-madison-aci.github.io/2016-06-01-uwmadison/][][{\bf Jun.
+01-02, 2016}]\from[url30],
+\useURL[url31][https://uw-madison-aci.github.io/2017-06-19-uwmadison-dc/][][{\bf Jun.
+19-20, 2017}]\from[url31]
+
+\useURL[url32][http://software-carpentry.org/][][Software
+Carpentry]\from[url32] Workshop - Federal Reserve Bank, Chicago\crlf
+{\em Instructor} -
+\useURL[url33][http://sarahlrstevens.info/2017-08-02-chicago-frb/][][{\bf Aug.
+2-3, 2017}]\from[url33]
+
+\useURL[url34][https://sites.google.com/a/wisc.edu/combee][][ComBEE]\from[url34]
+Anvio Workshop 2017 - University of Wisconsin - Madison\crlf
+{\em Instructor} -
+\useURL[url35][https://public.etherpad-mozilla.org/p/2017-05-24-combee-anvio][][{\bf May.
+24, 2017}]\from[url35]
+
+\useURL[url36][https://sites.google.com/a/wisc.edu/combee][][ComBEE]\from[url36]
+Git/Github Workshop - University of Wisconsin - Madison\crlf
+{\em Instructor} -
+\useURL[url37][https://sstevens2.github.io/git-novice-mod/][][{\bf Mar.
+2-3, 2017}]\from[url37]
+
+\useURL[url38][http://software-carpentry.org/][][Software
+Carpentry]\from[url38] Instructor Training - University of Wisconsin -
+Madison\crlf
+{\em Helper} -
+\useURL[url39][https://uw-madison-aci.github.io/2016-10-24-ttt-uwmadison/][][{\bf Oct.
+24-25, 2016}]\from[url39]
+
+\useURL[url40][http://software-carpentry.org/][][Software
+Carpentry]\from[url40] Workshop - University of Wisconsin -
+Milwaukee\crlf
+{\em Instructor} -
+\useURL[url41][http://sstevens2.github.io/2016-04-25-UW-mke/][][{\bf Apr.
+25-26, 2016}]\from[url41]
+
+\useURL[url42][http://software-carpentry.org/][][Software
+Carpentry]\from[url42] Workshop - Northwestern University\crlf
+{\em Instructor} -
+\useURL[url43][http://xuf12.github.io/2015-11-10-northwesternu/][][{\bf Nov.
+10-11, 2015}]\from[url43]
+
+McMahon Lab Git Workshop\crlf
+{\em Instructor} -
+\useURL[url44][https://github.com/McMahonLab/git_wksp/tree/2015-summer\#mcmahon-lab-git-workshop][][{\bf July
+2015}]\from[url44]
+
+Bioinformatics Basics: Microbial Ecology and Evolution - Illinois
+Mathematics and Science Academy Intersession\crlf
+{\em Instructor/Course Designer} - {\bf Jan. 2015}
+
+Microbiology 304: Biology of Microorganisms Laboratory - University of
+Wisconsin - Madison\crlf
+{\em Teaching Assistant/Instructor} - {\bf Fall 2013}
+
+\subsection[oral-presentations]{Oral Presentations}
+
+{\bf Stevens, S. L. R.} Starting Your Own Study Group. Rebecca J. Holz
+series in Research Data Management. October 2016. Madison, WI.
+\useURL[url45][http://researchdata.wisc.edu/news/october-2016-brown-bag-sarah-stevens/][][Link
+to Webpage/Slides]\from[url45]
+
+{\bf Stevens, S. L. R.}, Bendall, M. L., Chan, L.-K., Malfatti, S.,
+Schwientek, P., Tremblay, J., \ldots{} McMahon, K. D. Malmstrom, R. R.
+Tracking Microbial Populations Through Time Using Single-cell Genomes
+and Metagenomics. UW Center for Limnology Seminar. December 2015.
+Madison, WI. \useURL[url46][https://goo.gl/0ge2LZ][][Link to
+Slides]\from[url46]
+
+{\bf Stevens, S. L. R.}, Bendall, M. L., Chan, L.-K., Malfatti, S.,
+Schwientek, P., Tremblay, J., \ldots{} McMahon, K. D. Malmstrom, R. R.
+Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial
+Populations Revealed Using Metagenomics. JF Crow Institute for the Study
+of Evolution Seminar Series. October 2015. Madison, WI.
+\useURL[url47][https://goo.gl/oSnDYG][][Link to Slides]\from[url47]
+
+{\bf Stevens, S. L. R.}, Bendall, M. L., Chan, L.-K., Malfatti, S.,
+Schwientek, P., Tremblay, J., \ldots{} McMahon, K. D. Malmstrom, R. R.
+Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial
+Populations Revealed Using Metagenomics. 14 Symposium Society for
+Aquatic Microbial Ecology. August 2015. Uppsala, Sweden
+\useURL[url48][https://goo.gl/RcrxhJ][][Link to Slides]\from[url48]
+
+{\bf Stevens, S. L. R.}, Bendall, M. L., Chan, L.-K., Malfatti, S.,
+Schwientek, P., Tremblay, J., \ldots{} McMahon, K. D. Malmstrom, R. R.
+Genome-wide Selective Sweeps in Natural Bacterial Populations Revealed
+by Time-series Metagenomics. 15th International Symposium on Microbial
+Ecology. August 2014. Seoul, South Korea.
+\useURL[url49][https://goo.gl/6iunz0][][Link to Slides]\from[url49]
+
+\subsection[poster-presentations]{Poster Presentations}
+
+{\bf Stevens, S. L. R.}, Egan, R., Malmstrom, R.R., McMahon, K. D.
+Comparative Genomics of Selected Bacterial Populations from Several
+Freshwater Bog Lakes. 2017 Microbial Population Biology Gordon Research
+Conference. July 2017. Andover, NH.
+\useURL[url50][https://goo.gl/ZRSh9W][][Link to Poster]\from[url50]
+
+{\bf Stevens, S. L. R.}, Egan, R., Malmstrom, R.R., McMahon, K. D.
+Comparative Genomics of Selected Bacterial Populations from Several
+Freshwater Bog Lakes. 2017 Microbial Population Biology Gordon Research
+Seminar. July 2017. Andover, NH.
+\useURL[url51][https://goo.gl/ZRSh9W][][Link to Poster]\from[url51]
+
+{\bf Stevens, S. L. R.}, Garcia, S. L., \ldots{} McMahon, K. D.
+Contrasting Patterns fo Genome-level Diversity across Distinct
+Co-occurring Populations. 16th International Symposium on Microbial
+Ecology. August 2016. Montreal, Canada.
+\useURL[url52][https://goo.gl/8JGS52][][Link to Poster]\from[url52]
+
+{\bf Stevens, S. L. R.}, Garcia, S. L., \ldots{} McMahon, K. D. Tracking
+Distinct Freshwater Populations Through Time by Mapping Metagenomes to
+Single-cell Genomes. DOE Joint Genome Institute User Meeting 2016.
+Walnut Creek, CA. \useURL[url53][https://goo.gl/ShUQVn][][Link to
+Poster]\from[url53]
+
+{\bf Stevens, S. L. R.}, Bendall, M. L., \ldots{} McMahon, K. D.
+Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in
+Freshwater Bacterial Populations Revealed Using Metagenomics. 2015
+Microbial Population Biology Gordon Research Conference. July 2015.
+Andover, NH. \useURL[url54][https://goo.gl/rwaFKV][][Link to
+Poster]\from[url54]
+
+{\bf Stevens, S. L. R.}, Bendall, M. L., \ldots{} McMahon, K. D.
+Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations
+Inferred Using Metagenomes. 15th International Symposium on Microbial
+Ecology. August 2014. Seoul, South Korea.
+\useURL[url55][https://goo.gl/qsYL32][][Link to Poster]\from[url55]
+
+{\bf Stevens, S. L. R.}, Bendall, M. L., \ldots{} McMahon, K. D.
+Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations
+Inferred Using Metagenomes. SciMed GRS Poster Session 2014. September
+2014. Madison, WI.
+
+{\bf Stevens, S. L. R.}, Bendall, M. L., \ldots{} McMahon, K. D.
+Malmstrom, R. R. Dynamics of Sequence-Discrete Bacterial Populations
+Inferred Using Metagenomes. DOE Joint Genome Institute User Meeting
+2014. Walnut Creek, CA. \useURL[url56][https://goo.gl/1voTvB][][Link to
+Poster]\from[url56]
+
+\subsection[awards]{Awards}
+
+UW-Madison Dept. of Bacteriology Travel Award - {\bf Spring 2017}\crlf
+UW-Madison Dept. of Bacteriology Betley-Allen Fellowship -
+{\bf 2016-2017}\crlf
+UW-Madison Graduate School Travel Award - {\bf Fall 2015}\crlf
+UW-Madison Dept. of Bacteriology Travel Award - {\bf Spring 2014}
+
+\startblockquote
+Sarah Stevens --
+\useURL[url57][mailto:sarahlrstevens@gmail.com][][sarahlrstevens@gmail.com]\from[url57]
+-- \useURL[url58][sarahlrstevens.info]\from[url58]
+\stopblockquote
+
+\stoptext
