@@ -70,15 +70,13 @@ Organizations
 
 [Software Carpentry](http://software-carpentry.org/) **and** [Data Carpentry](http://www.datacarpentry.org/)  
  *Instructor* - __2015-Present__  
+    - [DC Genomics Hack-a-thon Contributor](https://github.com/datacarpentry/genomics-hackathon) - __Mar. 23-25, 2015__
 
 [Computational Biology, Ecology, and Evolution (ComBEE)](https://goo.gl/Pf57mb) group  
  *Founder/Co-Chair* - __2014-2017__  
     - [ComBEE](https://goo.gl/Pf57mb) provides an opportunity for researchers to discuss new computational tools and learn bioinformatics skills together.  
     - [ComBEE Python Study Group](https://goo.gl/8fcWc3)  - __2014-2017__  
     - [ComBEE R Study Group](https://goo.gl/xKfLHf)  - __2015-2017__  
-
-[Data Carpentry Genomics Hack-a-thon](https://github.com/datacarpentry/genomics-hackathon)  
- *Contributor* - __Mar. 23-25, 2015__
 
 [DOE Joint Genome Institute](http://jgi.doe.gov/)  
  *Intern/Affiliate* - __Jan. 2015-Mar. 2015__  
@@ -169,4 +167,5 @@ Awards
 > Sarah Stevens -- 
 > <sarahlrstevens@gmail.com> -- 
 > [sarahlrstevens.info](sarahlrstevens.info)
+
 
