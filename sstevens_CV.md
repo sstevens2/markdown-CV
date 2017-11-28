@@ -171,6 +171,15 @@ Awards
   UW-Madison Dept. of Bacteriology Travel Award - __Spring 2014__  
 
 
+Proficiencies 
+----------
+
+Bioinformatics
+: Blast, BBtools, Metabat, Anvi'o, MCL, Phylosift, CheckM
+
+Other Computational
+: Bash, Python, R, Git, Markdown, Docker, HTCondor, UGE, Slurm, Microsoft Office Suite, Illustrator, SQL, openRefine
+
 > Sarah Stevens -- 
 > <sarahlrstevens@gmail.com> -- 
 > [sarahlrstevens.info](sarahlrstevens.info)
