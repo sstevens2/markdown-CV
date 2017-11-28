@@ -31,6 +31,7 @@ Research Experience
 **University of Wisconsin - Madison, [McMahon Lab](https://mcmahonlab.wisc.edu/)**
 
 Graduate Research Assistant - __2012-Present__  
+Server Administrator - _2014-2017_
 
 Determining the forces that shape population structure and how wild bacterial populations 
 change through time in lakes as a model system using reference genomes 
