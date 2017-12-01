@@ -41,7 +41,7 @@ freshwater bacteria and metagenomic time series from several lakes.
 
 **University of Illinois Urbana - Champaign, [Metcalf Lab](https://mcb.illinois.edu/faculty/profile/metcalf/)**
 
-Visiting Researcher - __2011-2012__
+Laboratory Technician/Visiting Researcher - __2011-2012__
 
 Assembled genomes from isolates belonging to the archaeal genus _Methanosarcina_ and 
 analyzed shared genomic content of members of this genus.
