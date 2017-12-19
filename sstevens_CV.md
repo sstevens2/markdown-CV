@@ -57,7 +57,9 @@ cultured archaea, organized sample/culture database, cleaned-up and prepped lab 
 Publications
 ----------
 
-  Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, Malmstrom, R. R., McMahon, K. D. (_accepted at ISME Journal_). Contrasting patterns of genome-level diversity across distinct co-occurring freshwater bacterial populations. \*Equal contributors
+  **Stevens, S. L. R.**, Kuzak, M., Martinez, C., Moser, A., Bleeker, P., Galland, M. (_in prep_). Building a local community of practice in scientific programming for life scientists.
+
+  Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, Malmstrom, R. R., McMahon, K. D. (Online 08 December 2017). Contrasting patterns of genome-level diversity across distinct co-occurring freshwater bacterial populations. ISMEJ. doi:[10.1038/s41396-017-0001-0](https://doi.org/10.1038/s41396-017-0001-0) \*Equal contributors
 
   He, S., **Stevens, S. L. R.**, Chan, L.-K., Bertilsson, S., Glavina del Rio, T., Tringe, S. G., Malmstrom, R. R., McMahon, K. D. (2017). Ecophysiology of Freshwater Verrucomicrobia Inferred from Metagenome-Assembled Genomes. mSphere. doi:[10.1128/mSphere.00277-17](https://doi.org/10.1128/mSphere.00277-17) 
 
