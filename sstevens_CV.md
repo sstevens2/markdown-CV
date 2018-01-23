@@ -90,7 +90,7 @@ Teaching
 
 [Software Carpentry](http://software-carpentry.org/) Workshops
 :  University of Wisconsin - Madison   
- - *Instructor* - [__Jan. 14-15, 2016__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/), [__Jun. 08-09, 2016__](http://uw-madison-aci.github.io/2016-06-08-uwmadison/), [__Jan. 12-13, 2017__](https://uw-madison-aci.github.io/2017-01-12-uwmadison/)  
+ - *Instructor* - [__Jan. 14-15, 2016__](http://uw-madison-aci.github.io/2016-01-14-uwmadison/), [__Jun. 08-09, 2016__](http://uw-madison-aci.github.io/2016-06-08-uwmadison/), [__Jan. 12-13, 2017__](https://uw-madison-aci.github.io/2017-01-12-uwmadison/), [__Jan. 10-11, 2018__](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/)  
  - *Helper* - [__Jan. 13-16, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-01-13/README.md), [__Jun. 3-4, 2015__](https://github.com/UW-Madison-ACI/boot-camps/blob/2015-06-03/README.md), [__Aug. 29-30, 2016__](https://uw-madison-aci.github.io/2016-08-29-uwmadison/), [__Oct. 24-25, 2016__](https://uw-madison-aci.github.io/2016-10-24-ttt-uwmadison/), [__Jun. 28-29, 2017__](https://uw-madison-aci.github.io/2017-06-28-uwmadison-swc/), [__Aug. 30-31, 2017__](https://uw-madison-aci.github.io/2017-08-30-uwmadison-swc/)
 :  Federal Reserve Bank, Chicago
  - *Instructor* - [__Aug. 2-3, 2017__](http://sarahlrstevens.info/2017-08-02-chicago-frb/)
