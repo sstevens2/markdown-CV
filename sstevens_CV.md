@@ -82,7 +82,7 @@ Organizations
     - [ComBEE R Study Group](https://goo.gl/xKfLHf)  - __2015-2017__  
 
 [DOE Joint Genome Institute](http://jgi.doe.gov/)  
- *Intern/Affiliate* - __Jan. 2015-Mar. 2015__  
+ *Intern/Affiliate* - __Jan. 2014-Mar. 2014__  
 
 
 Teaching
