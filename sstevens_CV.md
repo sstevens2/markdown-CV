@@ -10,7 +10,7 @@ Sarah Stevens
 Education
 ---------
 
-2012-2018 (expected)
+2012-2019
 :   **PhD, Microbiology Doctoral Training Program**;  
 University of Wisconsin - Madison 
 
@@ -25,15 +25,25 @@ University of Illinois Urbana - Champaign
     *Minor in Informatics*  
     James Scholar Honors
 
-Research Experience
+Experience
 ----------
+
+**University of Wisconsin - Madison, [Data Science Hub](https://datascience.wisc.edu/)**
+
+Data Science Facilitator - __2018-Present__  
+Server Administrator - _2014-2017_
+
+Consulted with researchers about their data science needs.  
+Organized, hosted, and taught at local Data and Software Carpentry Workshops.  
+Managed the hub communications and community building efforts.
+
 
 **University of Wisconsin - Madison, [McMahon Lab](https://mcmahonlab.wisc.edu/)**
 
-Graduate Research Assistant - __2012-Present__  
+Graduate Research Assistant - __2012-2019__  
 Server Administrator - _2014-2017_
 
-Determining the forces that shape population structure and how wild bacterial populations 
+Studied the forces that shape population structure and how wild bacterial populations 
 change through time in lakes as a model system using reference genomes 
 (composite genomes from metagenomes and single-cell genomes) for uncultivated but common 
 freshwater bacteria and metagenomic time series from several lakes.
@@ -57,7 +67,8 @@ cultured archaea, organized sample/culture database, cleaned-up and prepped lab 
 Publications
 ----------
 
-  **Stevens, S. L. R.**, Kuzak, M., Martinez, C., Moser, A., Bleeker, P., Galland, M. (_in prep_). Building a local community of practice in scientific programming for life scientists.
+
+  **Stevens, S. L. R.**, Kuzak, M., Martinez, C., Moser, A., Bleeker, P., & Galland, M. (2018). Building a local community of practice in scientific programming for life scientists. PLOS Biology. doi:[10.1038/s41396-017-0001-0](https://doi.org/10.1371/journal.pbio.2005561)
 
   Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, Malmstrom, R. R., McMahon, K. D. (2018). Contrasting patterns of genome-level diversity across distinct co-occurring freshwater bacterial populations. ISMEJ. doi:[10.1038/s41396-017-0001-0](https://doi.org/10.1038/s41396-017-0001-0) \*Equal contributors
 
