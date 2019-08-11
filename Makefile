@@ -16,11 +16,11 @@ sstevens_CV.html: style_chmduquesne.css sstevens_CV.md
 
 docx: sstevens_CV.docx
 sstevens_CV.docx: sstevens_CV.md
-	pandoc -s -S sstevens_CV.md -o sstevens_CV.docx
+	pandoc sstevens_CV.md -o sstevens_CV.docx
 
 rtf: sstevens_CV.rtf
 sstevens_CV.rtf: sstevens_CV.md
-	pandoc -s -S sstevens_CV.md -o sstevens_CV.rtf
+	pandoc  sstevens_CV.md -o sstevens_CV.rtf
 
 clean:
 	rm -f sstevens_CV.html
